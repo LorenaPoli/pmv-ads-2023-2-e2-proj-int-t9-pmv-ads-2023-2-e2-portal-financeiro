@@ -7,7 +7,7 @@
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
 **<h3 align="center" >Ana Júlia Assis</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" docs="img/Ana.png"> **Biografia**: 
 Ana é uma estudante universitária de 22 anos, vivendo em um alojamento estudantil.
  
 
