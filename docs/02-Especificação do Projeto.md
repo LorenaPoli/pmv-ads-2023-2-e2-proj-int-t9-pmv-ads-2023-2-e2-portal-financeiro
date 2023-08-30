@@ -5,13 +5,17 @@
 ### Personas 
 
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
+**<h3 align="center" >Maria Clara Pereira </h3 >**
 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
 
-<div align="center">
-	
-![Manoel Gomes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-rich/blob/main/img_projectStep1/ManoelGomes.PNG)
-	
-</div>
+ 
+
+**Metas**: 
+
+ 
+
+**Motivação**:
 
 </br>
 
