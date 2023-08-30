@@ -21,6 +21,73 @@ Busca adquirir habilidades financeiras desde cedo, sonha em iniciar uma carreira
 
 **Frustação**:
 Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
+
+**<h3 align="center" >Gustavo Abreu</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+Gustavo é um jovem profissional de 28 anos, recém-promovido em seu trabalho.
+
+
+**Metas**: 
+Economizar para uma viagem ao exterior, começar a investir.
+
+ 
+**Motivação**:
+Alcançar independência financeira, aproveitar a vida agora e no futuro.
+
+
+**Frustação**:
+Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado de investimentos.
+
+**<h3 align="center" >Tereza Vitória Januário</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+Tereza, 55 anos, está prestes a se aposentar após uma carreira de sucesso.
+
+
+**Metas**: 
+Garantir um fluxo de renda sustentável na aposentadoria, viajar e aproveitar a vida.
+
+ 
+**Motivação**:
+Desfrutar da aposentadoria sem se preocupar com finanças, explorar novas paixões.
+
+
+**Frustação**:
+Incertezas sobre quanto dinheiro é suficiente para a aposentadoria, preocupações com despesas médicas.
+
+**<h3 align="center" >Aberto Limonta</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+Alberto, 45 anos, está em uma posição de gestão na sua carreira corporativa.
+
+
+**Metas**: 
+Diversificar seus investimentos, preparar-se para a aposentadoria confortável.
+
+ 
+**Motivação**:
+Garantir um futuro financeiro estável para si e para a família, colher os frutos de anos de trabalho.
+
+
+**Frustação**:
+Pressão para sustentar as despesas da família, incerteza sobre qual estratégia de investimento seguir.
+
+**<h3 align="center" >Jana Ótiz Lima</h3 >**
+
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+Jana, 40 anos, decidiu iniciar seu próprio negócio no setor de alimentos.
+
+
+**Metas**: 
+Fazer crescer o negócio, gerenciar dívidas relacionadas ao empreendimento.
+ 
+**Motivação**:
+Realizar seu sonho empreendedor, alcançar estabilidade financeira por meio do negócio.
+
+
+**Frustação**:
+Incertezas financeiras no início do negócio, dificuldade em equilibrar investimento pessoal e comercial.
 </br>
 
 <div align="center">
