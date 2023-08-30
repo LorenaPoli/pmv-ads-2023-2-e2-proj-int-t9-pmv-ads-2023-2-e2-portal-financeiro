@@ -5,18 +5,22 @@
 ### Personas 
 
 &nbsp;&nbsp; Durante o processo de entendimento do problema, foram entrevistadas pessoas que possuem estilos de vida distintos, sendo apresentadas a seguir: 
-**<h3 align="center" >Maria Clara Pereira </h3 >**
+**<h3 align="center" >Ana Júlia Assis</h3 >**
 
 <img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
-
+Ana é uma estudante universitária de 22 anos, vivendo em um alojamento estudantil.
  
 
 **Metas**: 
+Economizar para a formatura, evitar dívidas estudantis excessivas.
 
  
-
 **Motivação**:
+Busca adquirir habilidades financeiras desde cedo, sonha em iniciar uma carreira sem dívidas.
 
+
+**Frustação**:
+Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
 </br>
 
 <div align="center">
