@@ -24,7 +24,7 @@ Dificuldade em equilibrar gastos com entretenimento e necessidades básicas.
 
 **<h3 align="center" >Gustavo Abreu</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Gustavo.png"> **Biografia**: 
 Gustavo é um jovem profissional de 28 anos, recém-promovido em seu trabalho.
 
 
@@ -41,7 +41,7 @@ Despesas inesperadas afetando seu orçamento, dificuldade em entender o mercado 
 
 **<h3 align="center" >Tereza Vitória Januário</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Tereza.png"> **Biografia**: 
 Tereza, 55 anos, está prestes a se aposentar após uma carreira de sucesso.
 
 
@@ -58,7 +58,7 @@ Incertezas sobre quanto dinheiro é suficiente para a aposentadoria, preocupaç�
 
 **<h3 align="center" >Aberto Limonta</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Alberto.png"> **Biografia**: 
 Alberto, 45 anos, está em uma posição de gestão na sua carreira corporativa.
 
 
@@ -75,7 +75,7 @@ Pressão para sustentar as despesas da família, incerteza sobre qual estratégi
 
 **<h3 align="center" >Jana Ótiz Lima</h3 >**
 
-<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/persona2.jpeg"> **Biografia**: 
+<img align="left" width="180px" height="190px" style="margin:-5px 1em 0 auto" src="img/Jana.png"> **Biografia**: 
 Jana, 40 anos, decidiu iniciar seu próprio negócio no setor de alimentos.
 
 
